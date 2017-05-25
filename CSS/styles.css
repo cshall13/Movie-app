@@ -2,10 +2,12 @@ img{
 	max-width: 100%;
 }
 body{
+	height: 100vh;
 	background-image: url('http://images.pond5.com/film-projector-lens-and-light-footage-024706786_prevstill.jpeg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
+	
 }
 #search-input{
 	width: 220px;
@@ -18,4 +20,14 @@ body{
 #search-container{
 	margin-top: 10px;
 	margin-bottom: 10px;
+}
+.genre-button{
+	border-radius: 30%;
+	color: white;
+	background-color: transparent;
+	border: 2px solid white;
+	outline: none !important;
+}
+#movie-grid{
+	margin-top: 10px;
 }
