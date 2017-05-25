@@ -1,0 +1,21 @@
+img{
+	max-width: 100%;
+}
+body{
+	background-image: url('http://images.pond5.com/film-projector-lens-and-light-footage-024706786_prevstill.jpeg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+#search-input{
+	width: 220px;
+}
+.title{
+	color: white;
+	font-size: 60px;
+	text-shadow: 0 0 30px silver, 0 0 50px yellow;
+}
+#search-container{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
